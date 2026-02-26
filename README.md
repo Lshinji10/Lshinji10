@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub
 
-Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**. Estou dando os primeiros passos no mundo da programação e da tecnologia, sempre buscando aprender coisas novas todos os dias.
+Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas**. Estou dando os primeiros passos no mundo da programação e da tecnologia, sempre buscando aprender coisas novas todos os dias.
 
 ---
 
@@ -35,7 +35,7 @@ Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas**. Est
 Se quiser trocar uma ideia sobre tecnologia ou projetos, fique à vontade para me chamar:
 
 - 📧 **Email:** leonardoshinji6@gmail.com  
-- 💼 **LinkedIn:** [Leonardo Shinji](https://www.linkedin.com/in/leonardo-t-073602260)
+- 💼 **LinkedIn:** [Leonardo Tamari](https://www.linkedin.com/in/leonardo-t-073602260)
 
 ---
 
