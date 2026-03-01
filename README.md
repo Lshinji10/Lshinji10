@@ -21,12 +21,11 @@ Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas**. Est
 
 ---
 
-### 📌 Projetos em destaque (em breve):
+### 📌 Projetos em destaque:
 
 - ✅ Calculadora simples em Python  
-- 🎯 Jogo de adivinhação  
 - 🔐 Gerador de senhas  
-- 📝 Lista de tarefas no terminal  
+- 📝 Lista de tarefas no terminal Java
 
 ---
 
