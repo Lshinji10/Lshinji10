@@ -1,4 +1,5 @@
 🫂 Bem-vindos ao meu perfil do GitHub! Eu chamo Leonardo Shinji.
+_________________________________________________________________________
 📋 Faço graduação em Análise e Desenvolvimento de Sistemas pela  UNICSUL.
 💖 Tenho uma vontade muito grande de me desenvolver na área de tecnologia .
 📖 Meus principais interesses são Data Analytics e Software Engineer .
