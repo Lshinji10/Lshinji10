@@ -1,5 +1,5 @@
 👋 Olá! Seja bem-vindo(a) ao meu GitHub
-Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas. Estou dando os primeiros passos no mundo da programação e da tecnologia, sempre buscando aprender coisas novas todos os dias.
+Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas. Estou dando os primeiros passos no mundo da programação e da tecnologia, sempre buscando aprender coisas novas todos os dias.
 
 💻 O que estou estudando no momento:
 Java - Estruturas de dados
