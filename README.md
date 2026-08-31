@@ -9,10 +9,6 @@ Git e GitHub – controle de versão e projetos colaborativos
 Compartilhar meus projetos e aprendizados
 Praticar e evoluir minhas habilidades com código
 Montar um portfólio para acompanhar meu progresso
-📌 Projetos em destaque:
-✅ Calculadora simples em Python
-🔐 Gerador de senhas
-📝 Lista de tarefas no terminal Java
 📫 Contato
 Se quiser trocar uma ideia sobre tecnologia ou projetos, fique à vontade para me chamar:
 
